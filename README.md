@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,mongodb,c,java&perline=5)](https://skillicons.dev)
 
 ![murad1234560833 GitHub stats](https://github-readme-stats.vercel.app/api?username=murad123460833&show_icons=true&theme=dark)
 
