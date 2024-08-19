@@ -26,11 +26,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murad123460833&theme=dark)
 
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_murad123460833/count.svg" />
-</p>
 <br>
 ⭐️ From [murad] (https://github.com/murad123460833)
